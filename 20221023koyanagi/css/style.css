@@ -394,3 +394,56 @@
   color: mediumvioletred;
   font-weight: bold;
 }
+
+.company {
+  display: flex;
+  justify-content: center;
+}
+
+.company-content {
+  width: 60%;
+  margin: 80px 0px;
+}
+
+.company-top {
+  
+}
+
+.company-title-text {
+  color: mediumvioletred;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 15px
+}
+
+.company-title {
+  margin-bottom: 30px;
+  font-size: 25px;
+  color: gray;
+}
+
+.company-bottom {
+
+}
+
+.company-table {
+  width: 100%;
+}
+
+.company-table-row {
+
+}
+
+.company-table-header {
+  border: 1px solid #ccc;
+  background-color: #eeeeee;
+  color: gray;
+  padding: 20px;
+  text-align: left;
+}
+
+.company-table-description {
+  border: 1px solid #ccc;
+  color: gray;
+  padding: 20px;
+}
