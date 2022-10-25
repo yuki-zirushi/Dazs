@@ -70,3 +70,58 @@
 .eyecatch-img {
   width: 100%;
 }
+
+.news {
+  text-align: center;
+}
+
+.news-container {
+  display: inline-block;
+  margin: 70px 0px;
+}
+
+.news-heading {
+  text-align: left;
+  margin-bottom: 40px;
+}
+
+.news-title-text {
+  margin-bottom: 10px;
+  color: mediumvioletred;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+}
+
+.news-title {
+  color: gray;
+  font-size: 1.8vw;
+}
+
+.news-list-container {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: darkgray;
+  width: 50vw;
+}
+
+.news-list {
+  list-style: none;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.news-item {
+  display: flex;
+  padding: 20px 0px;
+  border-bottom: 1px solid;
+  border-color: darkgray;
+  color: gray;
+}
+
+.news-date {
+  padding-right: 30px;
+}
+
+.news-category {
+  padding-right: 30px;
+}
