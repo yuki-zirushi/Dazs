@@ -132,3 +132,46 @@
   border-radius: 100px;
   padding: 0px 10px;
 }
+
+.about {
+  background-color: gainsboro;
+}
+
+.about-content {
+  width: 70vw;
+  margin: 30px auto;
+  background-color: red;
+}
+
+.about-heading {
+
+}
+
+.about-title-text {
+
+}
+
+.about-title {
+
+}
+
+.about-content-items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-description-text {
+
+}
+
+.about-description-second-text {
+
+}
+
+.about-img-container {
+  width: 40%;
+}
+
+.about-img {
+  width: 100%;
+}
