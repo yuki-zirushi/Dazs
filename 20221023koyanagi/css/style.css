@@ -393,6 +393,7 @@
 .blog-button {
   color: mediumvioletred;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .company {
