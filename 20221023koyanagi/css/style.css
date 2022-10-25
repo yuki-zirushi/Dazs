@@ -481,3 +481,65 @@
   color: white;
   font-size: 30px;
 }
+
+.footer {
+
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-content {
+  margin: 80px 0px;
+}
+
+.contact-content-text {
+  color: gray;
+  font-size: 20px;
+}
+
+.contact-content-pipeline {
+  color: mediumvioletred;
+  text-align: center;
+  font-size: 40px;
+  margin: 20px 0px;
+}
+
+.contact-content-button-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-content-button {
+  text-align: center;
+  padding: 30px 30px;
+  color: white;
+  background: linear-gradient(to right, #FF0099, #993366);
+  border-radius: 50px;
+  position: relative;
+  width: 60%;
+  box-shadow: 0px 10px 0px #660033;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.contact-content-button::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 30px;
+  background: url(../img/mailicon.svg);
+  background-size: cover;
+  transform: translate(0, -50%);
+  width: 30px;
+  height: 30px;
+}
+
+.copy-right {
+  text-align: center;
+  padding: 30px 0px;
+  background-color: #eeeeee;
+  color: gray;
+}
