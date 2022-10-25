@@ -447,3 +447,37 @@
   color: gray;
   padding: 20px;
 }
+
+.guide {
+  display: flex;
+  height: 400px;
+}
+
+.guide-recruit {
+  width: 50%;
+  background-image: url(../img/recruit.png);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+}
+
+.guide-recruit-text {
+  color: white;
+  font-size: 30px;
+}
+
+.guide-interview {
+  width: 50%;
+  background-image: url(../img/interview.png);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.guide-interview-text {
+  color: white;
+  font-size: 30px;
+}
