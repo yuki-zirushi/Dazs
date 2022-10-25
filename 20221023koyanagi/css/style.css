@@ -124,6 +124,7 @@
 
 .news-category {
   padding-right: 30px;
+  white-space: nowrap;
 }
 
 .news-category-tag {
@@ -370,11 +371,11 @@
 }
 
 .blog-card-text-box-bottom-date {
-
+  overflow-wrap: anywhere;
 }
 
 .blog-card-text-box-bottom-tag {
-
+  overflow-wrap: anywhere;
 }
 
 .blog-bottom {
@@ -393,7 +394,7 @@
 .blog-button {
   color: mediumvioletred;
   font-weight: bold;
-  text-decoration: none;
+  text-decoration:
 }
 
 .company {
