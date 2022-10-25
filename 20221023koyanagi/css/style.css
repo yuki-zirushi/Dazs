@@ -181,3 +181,107 @@
 .about-img {
   width: 100%;
 }
+
+.service {
+  display: flex;
+  justify-content: center;
+}
+
+.service-content {
+  width: 70vw;
+  padding: 80px 0px;
+}
+
+.service-heading {
+}
+
+.service-title-text {
+  color: mediumvioletred;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 15px;
+}
+
+.service-title {
+  margin-bottom: 30px;
+  font-size: 25px;
+  color: gray;
+}
+
+.service-description {
+  display: flex;
+  color: white;
+}
+
+.service-description-large {
+  background-color: #990066;
+  width: 50%;
+  text-align: center;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.service-description-large-picture {
+  width: 30%;
+}
+
+.service-description-large-title {
+  margin: 10px;
+}
+
+.service-description-large-text {
+  text-align: left;
+  line-height: 30px;
+}
+
+.service-description-right {
+  width: 50%;
+}
+
+.service-description-medium-top {
+  background-color: #993366;
+  width: 100%;
+  display: flex;
+  padding: 10px 0px 30px;
+  box-sizing: border-box;
+}
+
+.service-description-medium-top-picture {
+  width: 30%;
+}
+
+.service-description-medium-top-right {
+  
+}
+
+.service-description-medium-top-title {
+  margin: 20px 0px;
+}
+
+.service-description-medium-top-text {
+  line-height: 30px;
+}
+
+.service-description-medium-bottom {
+  background-color: #CC99CC;
+  width: 100%;
+  display: flex;
+  padding: 10px 0px 30px;
+  box-sizing: border-box;
+}
+
+.service-description-medium-bottom-picture {
+  width: 30%;
+}
+
+.service-description-medium-bottom-right {
+
+}
+
+.service-description-medium-bottom-title {
+  margin: 20px 0px;
+}
+
+.service-description-medium-bottom-text {
+  line-height: 30px;
+}
